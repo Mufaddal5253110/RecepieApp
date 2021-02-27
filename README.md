@@ -1,16 +1,5 @@
-# food_app
+# Recepie App
 
-A new Flutter project.
+A Flutter Application show the recipe(Ingredients, steps) of some Italian, German, Asian etc. food with some filters
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/60619133/95440437-92e1e200-0976-11eb-9ab8-56732f531628.jpg" alt="feed example" width = "220">
